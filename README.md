@@ -35,6 +35,7 @@ The **Hotel Management System** provides a structured graphical user interface (
 
 ##  Project Architecture
 
+```text
 Hotel-Management-System/
 │
 ├── src/
@@ -63,7 +64,7 @@ Hotel-Management-System/
 ├── .classpath
 ├── .project
 └── README.md
-
+```
 
 ## Application Modules
 
